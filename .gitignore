@@ -1,7 +1,4 @@
 dist/
-images/*
-text/*
-result/*
 yarn.lock
 image-text-processor.exe
 package-lock.json
